@@ -26,6 +26,7 @@ Please follow the rules below:
 |💸|[LabEx](https://labex.io/learn)| Learn Linux, DevOps & Cybersecurity with Hands-on Labs |  [50% OFF for Two Years](https://labex.io/checkout?type=4&coupon=2025BF50) (Coupon: 2025BF50) and [30% OFF for One Year](https://labex.io/checkout?type=2&coupon=2025BF30) (Coupon: 2025BF30) |
 |🤑|[Digital Photo Frame](https://digitalphotoframeapp.com/)| Turn  your device into a powerful Smart Photo Frame. For iOS, iPadOS, macOS and tvOS. |  **67%** OFF NO CODE REQUIRED |
 |🤑|[Diabetes App - Glu Sight](https://apps.apple.com/us/app/diabetes-app-glu-sight/id6479405901)| Effortlessly track glucose levels & manage insulin therapy. Connect your Apple Health-compatible CGM or Insulin pen or log manually. Features charts, heat maps for lows & highs, CSV/PDF exports for your medical care team, and personalized insights. | 50% OFF lifetime premium plan (in-app) with code **BLACKFRIDAY2025**, Nov 15 - Dec 2 |
+|💸|[Steps](https://apps.apple.com/us/app/steps-step-counter-workouts/id6746096378)| Your complete step tracking companion with Apple Watch sync, beautiful charts, workout analytics, and personalized goals to keep you moving. | 30% OFF lifetime  plan with code **BLACKFRIDAY** or using https://apps.apple.com/redeem?ctx=offercodes&id=6746096378&code=BLACKFRIDAY, Nov 25 - Dec 2 |
 
 ---
 
